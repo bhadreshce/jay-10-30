@@ -1,0 +1,6 @@
+
+git clone <repo-name>
+    git status
+    git add .
+    git commit -m"i have added intro file"
+    git push
